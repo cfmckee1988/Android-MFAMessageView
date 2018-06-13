@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/colinmckee/Desktop/multifaceted_approach/Android-MFAMessageView/mfa-messageview/build/intermediates/res/merged/androidTest/debug/drawable-nodpi-v4/mfa_send_bubble.9.png",
+        "source": "/Users/colinmckee/Desktop/multifaceted_approach/Android-MFAMessageView/mfa-messageview/build/intermediates/bundles/debug/res/drawable-nodpi-v4/mfa_send_bubble.9.png"
+    },
+    {
+        "merged": "/Users/colinmckee/Desktop/multifaceted_approach/Android-MFAMessageView/mfa-messageview/build/intermediates/res/merged/androidTest/debug/drawable-nodpi-v4/mfa_sent_bubble.9.png",
+        "source": "/Users/colinmckee/Desktop/multifaceted_approach/Android-MFAMessageView/mfa-messageview/build/intermediates/bundles/debug/res/drawable-nodpi-v4/mfa_sent_bubble.9.png"
+    },
+    {
+        "merged": "/Users/colinmckee/Desktop/multifaceted_approach/Android-MFAMessageView/mfa-messageview/build/intermediates/res/merged/androidTest/debug/drawable-nodpi-v4/mfa_sent_small.9.png",
+        "source": "/Users/colinmckee/Desktop/multifaceted_approach/Android-MFAMessageView/mfa-messageview/build/intermediates/bundles/debug/res/drawable-nodpi-v4/mfa_sent_small.9.png"
+    },
+    {
+        "merged": "/Users/colinmckee/Desktop/multifaceted_approach/Android-MFAMessageView/mfa-messageview/build/intermediates/res/merged/androidTest/debug/drawable-nodpi-v4/mfa_receive_bubble.9.png",
+        "source": "/Users/colinmckee/Desktop/multifaceted_approach/Android-MFAMessageView/mfa-messageview/build/intermediates/bundles/debug/res/drawable-nodpi-v4/mfa_receive_bubble.9.png"
+    }
+]

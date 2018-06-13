@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/colinmckee/Desktop/multifaceted_approach/Android-MFAMessageView/mfa-messageview/src/main/assets"/><source path="/Users/colinmckee/Desktop/multifaceted_approach/Android-MFAMessageView/mfa-messageview/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/colinmckee/Desktop/multifaceted_approach/Android-MFAMessageView/mfa-messageview/src/release/assets"/></dataSet></merger>
